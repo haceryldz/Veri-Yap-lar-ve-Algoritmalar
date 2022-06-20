@@ -1,4 +1,4 @@
-# Veri-Yap-lar-ve-Algoritmalar
+# Veri-Yapilari-ve-Algoritmalar-Proje1 
 
 ## Proje1 
 
